@@ -1,3 +1,3 @@
 # hello-world
 
-This is Ximon Dave Tumanan, I want to learn with the GitHub.
+This is Ximon Dave Tumanan, I am learning with the GitHub.
